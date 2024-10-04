@@ -1,0 +1,4 @@
+http://www.ipeadata.gov.br/
+regional > temas > população > população residente total
+Filtro: 1872 a 2022
+exportar CSV
